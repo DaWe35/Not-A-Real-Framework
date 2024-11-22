@@ -50,7 +50,7 @@ elemsHtml('elementTag', 'all', `<p>HTML is JS is my favorite</p>`)
 Include the core functionality:
 
 ```html
-<script src="https://raw.githubusercontent.com/DaWe35/The-simplest-JavaScript-framework-in-the-world/13d4537790db6b01de2f489b72a1db820b89803c/narf.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/DaWe35/The-simplest-JavaScript-framework-in-the-world@main/narf.js"></script>
 ```
 
 # Documentation
